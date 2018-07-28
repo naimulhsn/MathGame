@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1532801479 source:c:\users\anotherloser\desktop\new folder (3)\mathgame\game.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
